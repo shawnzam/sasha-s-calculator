@@ -1,0 +1,24 @@
+
+.row {
+   width: 450px;
+}
+.numberBox {
+    width: 100px;
+    height: 75px;
+    float: left;
+    border: 1px solid black;
+    background: orange;
+    margin: 3px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.alt {
+    background: grey;
+}
+
+input {
+    height:50px;
+    width:100%;
+    font-size:25pt;
+}
